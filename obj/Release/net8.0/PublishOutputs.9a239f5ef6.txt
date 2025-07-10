@@ -1,0 +1,7 @@
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\Rincon.Imagenes.exe
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\Rincon.Imagenes.dll
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\Rincon.Imagenes.deps.json
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\Rincon.Imagenes.runtimeconfig.json
+C:\Users\LENOVO.USER\Desktop\cloudComputing\Reconocer Imagen\Rincon.Imagenes\obj\Release\net8.0\PubTmp\Out\Rincon.Imagenes.pdb

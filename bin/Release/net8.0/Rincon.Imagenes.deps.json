@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rincon.Imagenes/1.0.0": {
+        "runtime": {
+          "Rincon.Imagenes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rincon.Imagenes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

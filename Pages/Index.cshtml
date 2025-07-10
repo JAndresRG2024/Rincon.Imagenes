@@ -1,0 +1,28 @@
+﻿@page
+@model Rincon.Imagenes.Pages.IndexModel
+@{
+    ViewData["Title"] = "Reconocimiento de Imagenes Rincon";
+}
+
+<h2>Reconocimiento de Imagen</h2>
+<h2>Hecho por: Juan Andres Rincon</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <label>URL de imagen:</label>
+        <input type="text" asp-for="Input.UrlImagen" class="form-control" />
+    </div>
+    <button type="submit">Analizar</button>
+</form>
+
+@if (Model.ImagenMostrada != null)
+{
+    <h3>Imagen Analizada:</h3>
+    <img src="@Model.ImagenMostrada" style="max-width: 300px;" />
+
+    <h3>Resultado Español:</h3>
+    <pre>@Model.ResultadoTraduccido</pre>
+
+    <h3>Resultado Ingles:</h3>
+    <pre>@Model.Resultado</pre>
+}
